@@ -1,6 +1,21 @@
 # PacketDeck
 
-Docker Desktop extension — visual container network inspection and packet capture.
+Docker Desktop extension -- visual container network inspection and
+packet capture.
+
+## Session Role
+
+**You are a PacketDeck developer.** Your focus is the PacketDeck
+codebase -- React frontend, network visualization, Docker extension.
+
+**Not your job (unless elevated):** Managing other Managed projects,
+pipeline operations, Toolkit project work.
+
+## Forge and CI
+
+- **Forge:** GitHub (`HerbHall/PacketDeck`)
+- **CI:** GitHub Actions (`.github/workflows/`)
+- **Rule:** CI is tied to the forge. (D-014)
 
 ## Tech Stack
 
